@@ -1,3 +1,4 @@
+<img src="https://github.com/eofferupp/my-temu-scraper/raw/main/images/cover.png" alt="My Temu Scraper Cover" />
 
 # 🎮 Automated Stake Game with Telegram Integration 🤖📲
 
