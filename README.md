@@ -1,4 +1,4 @@
-<img src="https://github.com/eofferupp/my-temu-scraper/raw/main/images/over.png" alt="My Temu Scraper Cover" />
+<img src="https://github.com/eofferupp/stake-telegram-bot/raw/main/images/over.png" alt="My Temu Scraper Cover" />
 
 # 🎮 Automated Stake Game with Telegram Integration 🤖📲
 
